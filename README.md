@@ -22,5 +22,5 @@ item.</li>
    <li>User can add muttiple address</li>
    <li>Dealer can both original as well as discounted price</li>
 </ul>
-<h1>Some Overview <h1>
-  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+<h1>Some Overview </h1>
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
