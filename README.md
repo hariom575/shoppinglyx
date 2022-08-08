@@ -1,7 +1,10 @@
-# blog-posting-website
-- User can post,delete and edit thier post. They can also create
-thier account.They can login and logout from their account
--They can create their profile all the blog posted by the user is shown on his dashboard section
+# Shoppinglyx-website
+- This is a project which deals with online selling and purchasing of project 
+- If visitor is not a customer of website then he can view all the items and products available on store
+- If Visitor is already registered customer then he or she can buy products,add items in cart 
+- User can add multiple shipping address
+- User can filter items on the basis of brand or price
+- Trending sells or items float on front page of wbsite
 - Technology used-HTML,CSS,Javascript,Bootstrap,Django
 # Overview-
 ![Screenshot from 2021-12-10 00-45-18](https://user-images.githubusercontent.com/56331816/145463254-bc1b0eff-209b-4ea5-8b21-3e626d9894d8.png)
