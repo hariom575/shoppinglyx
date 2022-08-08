@@ -6,6 +6,7 @@
 - User can filter items on the basis of brand or price
 - Trending sells or items float on front page of wbsite
 - Technology used-HTML,CSS,Javascript,Bootstrap,Django
+- Live project link - https://shoppinglyx12345.herokuapp.com/
 # Overview-
 ![Screenshot from 2022-08-08 23-22-49](https://user-images.githubusercontent.com/56331816/183482043-294d31b8-26b6-4d11-9136-7878bdbb75f1.png)
 ![Screenshot from 2022-08-08 23-18-22](https://user-images.githubusercontent.com/56331816/183481740-a563a260-19f8-4955-9780-4bc17f47b7f0.png)
