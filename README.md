@@ -7,8 +7,8 @@
 - Trending sells or items float on front page of wbsite
 - Technology used-HTML,CSS,Javascript,Bootstrap,Django
 # Overview-
-![Screenshot from 2021-12-10 00-45-18](https://user-images.githubusercontent.com/56331816/145463254-bc1b0eff-209b-4ea5-8b21-3e626d9894d8.png)
-![Screenshot from 2021-12-10 00-45-44](https://user-images.githubusercontent.com/56331816/145463262-1bc2497d-6535-482b-b874-b462db0757ce.png)
-![Screenshot from 2021-12-10 00-44-51](https://user-images.githubusercontent.com/56331816/145463271-12aa96fd-c3b5-416a-aad5-268bdb94a660.png)
-![Screenshot from 2021-12-10 00-46-04](https://user-images.githubusercontent.com/56331816/145463278-534bb44a-de69-4dd2-b589-eee34cfaca14.png)
 ![Screenshot from 2022-08-08 23-18-22](https://user-images.githubusercontent.com/56331816/183481740-a563a260-19f8-4955-9780-4bc17f47b7f0.png)
+![Screenshot from 2022-08-08 23-18-35](https://user-images.githubusercontent.com/56331816/183481843-03f76793-c31d-47c7-aebb-ab561c3b626d.png)
+![Screenshot from 2022-08-08 23-18-46](https://user-images.githubusercontent.com/56331816/183481859-32d28f85-0eab-4287-915e-02ad638f1f2b.png)
+![Screenshot from 2022-08-08 23-20-47](https://user-images.githubusercontent.com/56331816/183481867-0be03600-3c85-4e2b-9ccb-b5b65f0088e7.png)
+![Screenshot from 2022-08-08 23-21-01](https://user-images.githubusercontent.com/56331816/183481873-00a417de-66c3-4fc1-8f38-673b234c5093.png)
